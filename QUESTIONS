@@ -1,0 +1,12 @@
+# Questions
+-What is the total number and percentage of missing data in 2014 to 3 decimal places?
+-What is the mean and standard deviation across the whole dataset for the year 2017 to 2 decimal places?
+-Which year had the least correlation with ‘Element Code’?
+-What is the total number of unique countries in the dataset?
+-Perform a groupby operation on ‘Element’. What year has the highest sum of Stock Variation?
+-Perform a groupby operation on ‘Element’. What is the total number of the sum of Processing in 2017?
+-What is the total sum of Wine produced in 2015 and 2018 respectively?
+-Select columns ‘Y2017’ and ‘Area’, Perform a groupby operation on ‘Area’.
+  Which of these Areas had the 7th lowest sum in 2017?
+-Select columns ‘Y2017’ and ‘Area’, Perform a groupby operation on ‘Area’.
+  Which of these Areas had the highest sum in 2017?
